@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border:2px sold balck;
+    border-radius: 50%;
+    margin-top: 60px;
+}
+
+h3{
+    color:rgb(41, 139, 106);
+}
+
+a{
+    color: rgb(41, 139, 106); 
+    &:hover, &:visited, &:active { color: (41,139,106); }
+    text-decoration: none;
+}
+.heading{
+    background-color: rgb(74, 207, 162);
+    
+}
